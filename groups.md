@@ -1,6 +1,6 @@
-1. Glen & Kevin A
-2. Will & Jon
-3. Brock & Ivy & Devon
-4. Sam & Scott
-5. Ervin & Kevin B
-6. Hans & Emily
+1. Glen & Emily
+2. Will & Kevin B
+3. Brock & Devon
+4. Ivy & Jon & Sam
+5. Ervin & Scott
+6. Hans & Kevin A

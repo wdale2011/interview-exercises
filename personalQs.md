@@ -4,8 +4,8 @@ These are some common soft questions that you are likely to encounter on an inte
 It will help you a lot to have prepped answers for these so that you can answer in a confident and complete way.
 
 Your assignment today is to answer these questions in interview format with a partner.
-If you are the interviewer (the one asking the questions), you will write down your partners responses (perferablly in this MD document, but you can ask your partner for whichever format they prefer).
-You don't have to get everything word-for-word, but be detailed enough so that your partner can use these notes as the starting point for a "script".
+Using your phone or computer, record your responses.
+It may be helpful to make a new recording for each question so you can easily find them later.
 
 After you have both answered all of the questions, give each other feedback.
 Some things you should be looking for:
@@ -15,10 +15,9 @@ Some things you should be looking for:
 3. Tone: try to be friendly yet professional. Remember to read the room
 4. Conciseness: your answers do not need to be full-on monologues. Get to the point
 
-It may be helpful to also record this feedback in your notes.
-
-After giving feedback, exchange notes.
-Your job as the interviewee is to go through these notes and flesh out the responses so that you more or less have a script that you can refer to before any interview.
+Finally, go through the recordings and transcribe your responses into this document.
+While listening, try to critique yourself on the above points.
+When you have transcribed your responses, you should go back and flesh everything out so that you more or less have a script that you can refer to before any interview.
 
 ## 1. Tell me a little about yourself
 

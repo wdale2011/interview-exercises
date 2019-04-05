@@ -59,7 +59,7 @@ In the details view, show all employees that _report to_ the selected employee
 
 ### Bonus 2
 
-Allow users to edit an employee, including their name, job title, and email
+Allow users to edit an employee, including their name, job title, email, and reports to
 
 ### Bonus 3
 
@@ -67,8 +67,9 @@ Persist your state in some kind of external database/cloud service.
 
 ## Some Things to Note
 
-1. Think about the time complexity of assembling your tree. What is your N?
-2. Order doesn't matter, so
+1. Think about edge cases!
+2. Think about the time complexity of assembling your tree. What is your N?
+3. Order doesn't matter, so
 
 - Kevin
 - Ivy

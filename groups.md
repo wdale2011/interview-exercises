@@ -8,8 +8,8 @@ Matching Socks
 3. Glen ([Matching Socks][socks]) & Will ([Repeated String][string])
 4. Ervin ([Jumping on Clouds][clouds]) & Hans ([Counting Valleys][valleys])
 5. Emily ([Matching Socks][socks]) & Kevin B ([Repeated String][string])
-6. Devon ([Repeated String][string]) & Jon ([Counting Valleys][valleys])
-7. Brock ([Jumping on Clouds][clouds]) & Me
+6. Brock ([Jumping on Clouds][clouds]) & Jon ([Counting Valleys][valleys])
+7. Devon ([Repeated String][string]) & Me
 
 [socks]: https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup
 [clouds]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup
